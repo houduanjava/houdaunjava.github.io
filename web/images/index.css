@@ -1,0 +1,20 @@
+body{background-color: #F5F5F5;}
+.div2{width: 500px;height: 40px;background-color: #F2F2F2;font-size: 2px;
+    padding-left: 1100px; color: #2B7ECA;}
+tr td{width: 185px;height: 30px; }
+a:link{color: crimson ;text-decoration: none;}
+a:hover{color: aquamarine;}
+a:valid{color: #2B7ECA;}
+.div3{width: 1110px;}
+.div4{width: 1410px;height: 120px;padding-top: 30px;padding-left: 200px;background-color: #FFFFFF;}
+.div5{width: 500px;height: 40px;position: absolute;right: 180px;top: 90px;background-color: #FFFFFF;}
+.div6{width: 200px;height: 30px;border-top: black 1px solid;border-bottom: #000000 1px solid;position: absolute;
+    left: 675px;top: 900px; padding-top: 10px;
+}
+.div7{width: 1140px;height: 380px;position: absolute;top: 1000px;left: 200px;padding-top: 25px;background-color: #FFFFFF;padding-left: 30px;}
+.div8{width: 790px;height: 363px;position: absolute;text-indent: 2em;}
+.img1{width: 33px;height: 31px;position: absolute;right:
+        15px;top: 5px;}
+.img2{width:261px ;height: 363px;position: absolute;right: 5px;}
+.a{position: absolute;left: 400px;height: 30px;}
+.aa{position: absolute;left: 411px;}
